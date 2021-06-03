@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments severall late victories in the vvest, obtained by Sir Thomas Fairfax army, as it was certified by several letters sent unto the House of Commons, and read in the said House. Together with a list of the several prisoners taken, and the number of men and horse. Ordered by the Commons assembled in Parliament, that these severall victories be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91462</idno><idno type="EEBO-CITATION">99861256</idno>
+  <idno type="VID">113387</idno>
+  <idno type="EEBO-PROQUEST">2240870807</idno>
+  
+            <idno type="STC">Wing P524</idno>
+            <idno type="STC">Thomason E317_2</idno>
+            <idno type="STC">ESTC R200538</idno>
+            <idno type="PROQUEST">99861256</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861256e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113387)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E317[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments severall late victories in the vvest, obtained by Sir Thomas Fairfax army, as it was certified by several letters sent unto the House of Commons, and read in the said House. Together with a list of the several prisoners taken, and the number of men and horse. Ordered by the Commons assembled in Parliament, that these severall victories be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands, printer to the Honorable House of Commons, and are to be sold at his shop at the signe of the Golden Dragon in Fleetstreet, neer the Inner-Temple,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>January 21. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Dartmouth (Devon, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113387:1"/>
+            <p>THE PARLIAMENTS Severall late VICTORIES In the VVEST, obtained by Sir <hi>Thomas Fairfax</hi> Army, As it was certified by several Letters sent unto the House of COMMONS, and read in the said House.</p>
+            <p>Together with a List of the several Prisoners taken, and the number of Men and Horse.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the</hi> Commons <hi>assembled in</hi> Parliament, <hi>That these several</hi> Victories <hi>be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> Printer to the Honorable House of Commons, and are to be sold at his Shop at the Signe of the Golden Dragon in Fleetstreet, neer the Inner-Temple, <hi>January 21. 1645.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113387:2"/>
+            <pb n="3" facs="tcp:113387:2"/>
+            <head>To the Honourable <hi>William Lenthal,</hi> Esquire, Speaker of the House of <hi>Commons</hi> in Parliament Assembled at <hi>Westminster.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E have seen the Votes of the House of <hi>Commons,</hi> upon our Petition, for the Supplies of this Garrison; for which, we now return our bounden thanks, and we humbly beseech you to continue your care of us, that we may in season receive these Supplies ordered for us. We have lately made some attempts upon the enemy in smal parties; which alwayes returned with some Prisoners, Horse, and other booty: And upon Saturday last, in the morning, we sent out five hundred Foot, and one hundred Horse, to fall on the enemies Fortifications at <hi>Kenterberry</hi> Work, and St. <hi>Budeaux</hi> Church, where they took by storm all the enemies Horse, Men, Am<g ref="char:EOLhyphen"/>munition, and whatsoever else was there. The first Work was taken without the losse of one man of ours, and the other after some hot dispute, was also gained with the losse onely of five common men of ours, and Major <hi>Haynes,</hi> a most gallant honest man; of the
+<pb n="4" facs="tcp:113387:3"/> enemy were slain in all twelve, whereof one was an Ensigne: The inclosed is a List of what was then taken. We are in earnest expectation of the residue of our Supplies, which we much want; and if we have encouragement for our men, we hope we shall (by Gods blessing) be able to attempt some greater peeces of the enemies with good successe; whereof (as there is an occasion) we shall give you an accompt.</p>
+            <p>This we desire you to intimate to the House of <hi>Commons,</hi> and we remain</p>
+            <closer>
+               <dateline>
+                  <hi>Plymouth,</hi>
+                  <date>30. of <hi>Decemb. 1645.</hi>
+                  </date>
+               </dateline>
+               <salute>Sir, </salute>
+               <signed>Your most humble and faithful Servants,
+<list>
+                     <item>
+                        <hi>John Crokker,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bear,</hi>
+                     </item>
+                     <item>
+                        <hi>James Kerr,</hi>
+                     </item>
+                     <item>
+                        <hi>Justinian Peard,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Ceely.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="6" facs="tcp:113387:3"/>
+            <head>Officers of Horse and Foot, taken at St. <hi>Budeaux</hi> and in <hi>Kenterberry</hi> Work, the 27. of <hi>Decemb. 1645.</hi>
+            </head>
+            <p>OF Sir <hi>James Smiths</hi> Regiment of Horse, Major <hi>James Suppley,</hi> Captain <hi>Peter Lapp,</hi> Captain <hi>Richard Price,</hi> Captain <hi>Thomas Baker,</hi> Lieutenant <hi>Richard Marley,</hi> Cornet <hi>Thomas Kajime,</hi> Cornet <hi>George Gammis,</hi> Quartermaster <hi>Oliver Franckling,</hi> Cor<g ref="char:EOLhyphen"/>poral <hi>John Nunkwel,</hi> Cornet <hi>George Dent,</hi> Corporal <hi>George Earl.</hi>
+            </p>
+            <p>Of Sir <hi>Charls Vaughans</hi> Regiment, Major <hi>Robert Baul,</hi> Captain <hi>Hugh Edwards,</hi> Lieutenant <hi>Peter Mark,</hi> Ensigne <hi>Esdras Michel,</hi> Sergeant <hi>Jacob Rogers,</hi> En<g ref="char:EOLhyphen"/>signe <hi>Christopher Carne,</hi> Sergeant <hi>John Christophers.</hi>
+            </p>
+            <p>33. Troopers, and Horses 46, Foot 56. Some 8. or 9. slain.</p>
+         </div>
+         <div type="list_of_prisoners">
+            <head>A List of Officers of Horse and Foot, taken a moneth since, and are now Prisoners in this Garrison of <hi>Plymouth.</hi>
+            </head>
+            <p>OF Horse, Lieutenant <hi>Grinsham,</hi> Lieut. <hi>Mallett,</hi> Corporal <hi>Stafford,</hi> Cornet <hi>Dunies,</hi> Corporal <hi>Ramiyme.</hi> 26 Troopers.</p>
+            <p>Of Foot, Captain <hi>Lange,</hi> Cap. <hi>Haman,</hi> Cap. <hi>Paulet,</hi> Cap. <hi>Finch,</hi> Lieut. <hi>Jermin,</hi> Ensigne <hi>Rottenbury,</hi> Ensigne <hi>Stephens,</hi> Sergeant <hi>White,</hi> Serg. <hi>Jucrib,</hi> Serg. <hi>Manwel.</hi> 50 Foot.</p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:113387:4"/>
+            <head>For the Honourable <hi>William Lenthall,</hi> Esquire, Speaker of the Honourable House of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my last I acquainted you, how the enemy quit the Forts before <hi>Plymouth,</hi> and left seven peece of Ordnance be<g ref="char:EOLhyphen"/>hinde them; which places, the <hi>Ply<g ref="char:EOLhyphen"/>mouth</hi> men do man with force from thence, and much annoy the enemy, who yesterday quit Sir <hi>Francis Drakes</hi> house; and be<g ref="char:EOLhyphen"/>fore this had been as far as <hi>Pendennis,</hi> but that they know we are engaged before <hi>Dartmouth,</hi> for the Cor<g ref="char:EOLhyphen"/>nish refuse to rise, though great extremity is used: By those that come from them, we understand, their discourse is altogether, how to save themselves, ha<g ref="char:EOLhyphen"/>ving nothing but the Sea for refuge: Some of the Lords about the Prince swear they will carry the Prince beyond Sea: The Lord of <hi>Barkshire</hi> and others, said they will cut the throats of those that shall at<g ref="char:EOLhyphen"/>tempt it. Every day we take prisoners, and most Horse: We have taken in these parts above 200 Horse, since the 400 at <hi>Bovy;</hi> and yesterday another part of our Army took 80 Horse, two Colours, and thirty prisoners, within a mile of <hi>Barstable:</hi> Sir <hi>Hard-Waller</hi> with his Brigade, hath taken many neer <hi>Ok<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>hampton.</hi>
+               <pb n="7" facs="tcp:113387:4"/> Lieutenant General <hi>Porter</hi> came in yesterday. Baronet <hi>Seymor</hi> saith, he will disinherit▪ his sons, if they will not come in and serve the Parliament. Great means those in Arms make to be received in to mercy: The Countrey very forward to assist us: We want Arms extremely: Hasten them down. These three dayes we have laid upon hard duty before <hi>Dartmouth.</hi> Keep Guards within Musket shot; taken many pri<g ref="char:EOLhyphen"/>soners. The suddennesse of the thaw, hath deferred the storm; howsoever its well it was put off, for this day Captain <hi>Batten</hi> is come in to <hi>Turbay,</hi> the Harbour before <hi>Dartmouth;</hi> his assistance will be desired at Sea, while we storm at Land: There are in the Town 150 peeces of Ordnance ready mounted; the General and Commanders have thorowly veiwed the place, and with Gods blessing doubt not but to carry it: Perhaps a Fort called the Royal Fort, may stand last; but not long after the rest. I have great hopes of the busi<g ref="char:EOLhyphen"/>nesse. This day a Red-Coat of ours took aym, and shot at a Commander in a Lane, and killed him dead, the rest fled and left him, our Souldier pillaged him and took twelve pound in Gold out of his Pocket: We since understand, it was Lieutenant Col. <hi>Turner,</hi> the Deputy Governour, as the Trumpet this Evening came out of <hi>Dartmouth</hi> informs; who came for a Passe for the Lord <hi>Newport,</hi> to come out of <hi>Dartmouth</hi> to go to the Prince, which is denyed him.</p>
+            <closer>
+               <dateline>
+                  <hi>Totnes,</hi>
+                  <date>
+                     <hi>January</hi> 12.</date> 12. at night.</dateline>
+               <pb n="8" facs="tcp:113387:5"/>
+            </closer>
+            <postscript>
+               <head>Postscript.</head>
+               <p>THis morning <hi>Ianuary</hi> 16▪ a Scout is come from <hi>Tavestock,</hi> that see the Enemy quit the Town; they are all fled thence into <hi>Corn<g ref="char:EOLhyphen"/>wall.</hi> As soon as <hi>Dartmouth</hi> is over, you will hear more.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
